@@ -1,7 +1,7 @@
 <html>
 <body>
 Hello world
-Testing line 1
+Testing line 1, extending line 1 to test whether there will be a merge error s
 
 Testing line 2
 
