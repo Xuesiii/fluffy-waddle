@@ -1,2 +1,3 @@
 new.php
 abc.php
+file.txt
