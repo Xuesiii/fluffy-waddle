@@ -15,7 +15,6 @@ oh oh oh oh oh you're just another guy
 
 Commit 1 - Happy 
 Commit 2 - Birthday
-Commit 3 - to youuuu~~
 <?php
     echo "hello world";
 ?>
