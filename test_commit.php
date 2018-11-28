@@ -11,6 +11,8 @@ Testing line 3
 no hao world¬¬¬¬¬
 the right has edited line 12. 
 
+2. the left has edited another file. 
+
 <?php
     echo "hello world";
 ?>
