@@ -7,7 +7,11 @@ Testing line 2
 
 
 Testing line 3
+<<<<<<< HEAD
 Left. What happens if we click resolve?
+=======
+Right. what happens if 
+>>>>>>> 5044593997782af197d2c52e5117a0ea7f4a4f09
 
 final 
 surfaces
